@@ -5,7 +5,7 @@
 <script src="/o/liferay-angular-test/js/angular-route.min.js"></script>
 
 <p>
-	<b><liferay-ui:message key="angular-multi-test.caption"/> 1.0.13</b>
+	<b><liferay-ui:message key="angular-multi-test.caption"/> 1.0.14</b>
 </p>
 
 <div id="<portlet:namespace/>App1" ng-app="<portlet:namespace/>listCities" ng-controller="<portlet:namespace/>CitiesController">
