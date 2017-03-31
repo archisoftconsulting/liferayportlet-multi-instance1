@@ -1,6 +1,6 @@
 Bundle-Name: angular-multi-test
 Bundle-SymbolicName: angular.multi.test
-Bundle-Version: 1.0.12
+Bundle-Version: 1.0.13
 Web-ContextPath: /angular-multi-test
 -sources: true
 -jsp: *.jsp,*.jspf
