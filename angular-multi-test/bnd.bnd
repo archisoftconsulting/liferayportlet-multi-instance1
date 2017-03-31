@@ -1,0 +1,10 @@
+Bundle-Name: angular-multi-test
+Bundle-SymbolicName: angular.multi.test
+Bundle-Version: 1.0.12
+Web-ContextPath: /angular-multi-test
+-sources: true
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
+-plugin.resourcebundle: com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin
+-plugin.sass: com.liferay.ant.bnd.sass.SassAnalyzerPlugin
+-sass: *
