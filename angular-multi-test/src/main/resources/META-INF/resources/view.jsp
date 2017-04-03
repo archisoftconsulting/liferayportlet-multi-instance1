@@ -38,7 +38,7 @@
     var <portlet:namespace/>module = angular.module("<portlet:namespace/>sampleApp", []);
 
     <portlet:namespace/>module.controller("<portlet:namespace/>RouteController", function($scope, $http) {
-    	 $http.get('http://localhost:9000/find').
+    	 $http.get('http://localhost/find').
 	        then(function(response) {
 	            $scope.users = response.data;
 	        });
