@@ -1,8 +1,8 @@
 <%@ include file="/init.jsp" %>
 
 
-<script src="/o/liferay-angular-test/js/angular.min.js"></script>
-<script src="/o/liferay-angular-test/js/angular-route.min.js"></script>
+<script src="/o/angular-multi-test/js/angular.min.js"></script>
+<script src="/o/angular-multi-test/js/angular-route.min.js"></script>
 
 <p>
 	<b><liferay-ui:message key="angular-multi-test.caption"/> 1.0.14</b>
